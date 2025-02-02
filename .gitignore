@@ -10,6 +10,7 @@ node_modules/
 # Production
 /dist
 /build
+/palette-demo
 
 # Environment files
 .env

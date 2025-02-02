@@ -70,7 +70,7 @@
     "bugs": {
         "url": "https://github.com/fatihguzel/ai-palette/issues"
     },
-    "homepage": "https://github.com/fatihguzel/ai-palette#readme",
+    "homepage": "https://palette-demo.vercel.app",
     "engines": {
         "node": ">=14.0.0"
     },

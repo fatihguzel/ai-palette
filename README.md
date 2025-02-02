@@ -2,6 +2,8 @@
 
 `ai-palette` is a powerful and flexible color palette generator for React applications that combines AI-powered suggestions with algorithmic color harmonies. Generate beautiful, harmonious color palettes from keywords, images, or let AI suggest the perfect colors for your project.
 
+🌐 **Demo:** [https://palette-demo.vercel.app](https://palette-demo.vercel.app)
+
 ## ✨ Features
 
 -   🎨 **Two Generation Modes:**
