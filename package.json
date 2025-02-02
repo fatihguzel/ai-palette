@@ -1,6 +1,6 @@
 {
     "name": "ai-palette",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "AI-powered color palette generator for React applications",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
